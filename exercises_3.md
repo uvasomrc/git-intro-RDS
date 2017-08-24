@@ -1,7 +1,7 @@
 # Hands-on work via command line - Part 3
-*with assistance upon request*
 
-* [Download Git](https://git-scm.com/downloads) - for Windows
+
+* [Download Git](https://git-scm.com/downloads) - for Windows only
 * [Forking a repository](https://help.github.com/articles/fork-a-repo/) - fork online, then use 'git clone'
 * create a new file
 * edit an existing file
