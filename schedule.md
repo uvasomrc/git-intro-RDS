@@ -8,6 +8,7 @@
 |14:25	|14:30	|GitHub overview	|Pete|same as above|	
 |14:30	|15:00	|hands-on work in browser|	Pete|	see [exercises 1](https://github.com/UVA-DSI/git-intro/blob/master/exercises_1.md)|
 |15:00	|15:15|	use cases|	Pete	| see [use cases](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md)|
+| BONUS MATERIAL |
 |15:30	|16:00	|group work in browser	|Pete	|see [exercises 2](https://github.com/UVA-DSI/git-intro/blob/master/exercises_2.md)|
 |16:00	|16:30	|hands-on via command line|	Pete|	see [exercises 3](https://github.com/UVA-DSI/git-intro/blob/master/exercises_3.md)|
 |16:30	|16:45	|outlook|	Pete|	see [version control outlook](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md)|
