@@ -2,7 +2,7 @@
 
 |start time|	end time	|activity	|presenter|	comments|
 |-----------|-----------|----------|--------|----------|
-|9:00|	9:15	|introduction|	Pete|	all in Brown Library 133 - [quick survey](student-pre-survey.tsv)|
+|9:00|	9:15	|introduction|	Pete|	all in Carter Classroom - [quick survey](student-pre-survey.tsv)|
 |9:15|9:20	|version control overview	|Pete|	see [version control overview](usage-examples.md)|
 |9:20	|9:25|	git overview|	Pete| same as above|	
 |9:25	|9:30	|GitHub overview	|Pete|same as above|	
