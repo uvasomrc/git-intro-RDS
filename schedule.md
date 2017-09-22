@@ -8,7 +8,7 @@
 |9:25	|9:30	|GitHub overview	|Pete|same as above|	
 |9:30	|10:00	|hands-on work in browser|	Pete|	see [exercises 1](exercises_1.md)|
 |10:00	|10:30	|group work in browser	|Pete	|see [exercises 2](exercises_2.md)|
-| BONUS MATERIAL |
-|11:00	|11:30	|hands-on via command line|	Pete|	see [exercises 3](exercises_3.md)|
+| Break |
+|10:45	|11:30	|hands-on via command line|	Pete|	see [exercises 3](exercises_3.md)|
 |11:30	|11:45	|outlook|	Pete|	see [version control outlook](usage-examples.md)|
 |11:45	|12:00	|wrap-up	|Pete||	
